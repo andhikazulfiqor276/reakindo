@@ -380,9 +380,8 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 100%;
-  height: 80vh;
-  background: grey;
+  background: linear-gradient(rgba(91, 98, 110, 0.9), rgba(91, 98, 110, 0.9)), url("../img/profile2.jpg") fixed center center;
+  background-size: cover;
 }
 
 #hero .container {
